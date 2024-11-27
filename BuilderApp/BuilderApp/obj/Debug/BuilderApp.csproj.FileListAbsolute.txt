@@ -1,0 +1,11 @@
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.csproj.AssemblyReference.cache
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.Form1.resources
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.Properties.Resources.resources
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.csproj.GenerateResource.cache
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.csproj.CoreCompileInputs.cache
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\bin\Debug\BuilderApp.exe.config
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\bin\Debug\BuilderApp.exe
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\bin\Debug\BuilderApp.pdb
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.exe
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.pdb
+C:\Users\Ігор\source\repos\BuilderApp\BuilderApp\obj\Debug\BuilderApp.csproj.Up2Date
